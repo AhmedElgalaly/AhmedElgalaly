@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hello! I'm Ahmed Elgalaly</h2>
+<h2 align="center">👋 Hi! I'm Ahmed Elgalaly</h2>
 
 ###
 
@@ -7,8 +7,8 @@
 </div>
 
 ###
-
-<p align="left">🚀 Software Developer at CoreVine Technologies | 🎓 Computer Science student at The British University in Egypt<br><br>💻 I specialize in building back-end APIs with Laravel and crafting user-friendly front-end applications using React. My passion lies in designing scalable, efficient, and maintainable software solutions.<br><br>
+<h2>🚀About Me</h2>
+<p align="left">👨‍💻 Software Developer at CoreVine Technologies | 🎓 Computer Science student at The British University in Egypt<br><br>💻 I specialize in building back-end APIs with Laravel and crafting user-friendly front-end applications using React. My passion lies in designing scalable, efficient, and maintainable software solutions.<br><br>
   🌟 What I do:<br><br><ul>
     <li>🛠️ Develop robust APIs and back-end systems.</li><br>
     <li>🎨 Refactor and enhance front-end applications for better user experiences.</li><br>
