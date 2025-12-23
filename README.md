@@ -27,7 +27,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ahmedelgalaly/" target="_blank" ><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" alt="linkedin logo"  /></a>
+  <a href="https://www.linkedin.com/in/ahmedelgalaly/" target="_blank" ><img src="./LI-In-Bug.png" height="40" alt="linkedin logo"  /></a>
   <img width="12" />
   <a href="https://dev.to/ahmedelgalaly" target="_blank"><img src="https://skillicons.dev/icons?i=devto" height="40" alt="devto logo"  /></a>
 </div>
@@ -35,8 +35,16 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedElgalaly&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedElgalaly&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img
+    src="https://github-readme-stats-ruby-five-26.vercel.app/api?username=AhmedElgalaly&show_icons=true&theme=dracula&hide_border=true&bg_color=282a36&title_color=bd93f9&icon_color=ff79c6&text_color=f8f8f2"
+    height="150"
+  />
+
+
+  <img
+    src="https://github-readme-stats-ruby-five-26.vercel.app/api/top-langs?username=AhmedElgalaly&layout=compact&theme=dracula&hide_border=true&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2"
+    height="150"
+  />
 </div>
 
 ###
@@ -55,6 +63,7 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="40" alt="cplusplus logo"  />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
 </div>
 
 ###
@@ -67,6 +76,8 @@
   <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" height="40" alt="laravel logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="40" alt="express logo"  />
+
 </div>
 
 ###
@@ -81,16 +92,8 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" height="40" alt="microsoftsqlserver logo"  />
-</div>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="mongodb logo"  />
 
-###
-
-<h2 align="left">Web Servers</h2>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white&style=for-the-badge" height="40" alt="nginx logo"  />
 </div>
 
 ###
@@ -111,6 +114,28 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
+  <img src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white&style=for-the-badge" height="40" alt="nginx logo"  />
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" height="40" alt="githubactions logo"  />
+
 </div>
 
 ###
+
+## ✍️ Quotes
+
+<p align="center">
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quote=اللهمَّ+آتِنا+في+الدنيا+حسنةً+وفي+الآخرةِ+حسنةً+،+و+قِنا+عَذَابَ+النارِ&author=سيّدُنا+مُحَمَّد+ﷺ&v=2"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quote=مالي+وللدنيا+إنما+مثلي+ومثلُ+الدنيا+كراكبٍ+استظلَّ+تحت+شجرةٍ+ثم+راحَ+وتركها&author=سيّدُنا+مُحَمَّد+ﷺ&v=2"
+  />
+</p>
+
+
+
+
+
