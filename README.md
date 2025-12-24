@@ -49,7 +49,7 @@
 
 ###
 
-<h2 align="left">Programing Languages</h2>
+<h2 align="left">Used. Programing Languages</h2>
 
 ###
 
@@ -69,7 +69,7 @@
 
 ###
 
-<h2 align="left">Frameworks</h2>
+<h2 align="left">Used. Frameworks</h2>
 
 ###
 
@@ -84,7 +84,7 @@
 
 ###
 
-<h2 align="left">Databases</h2>
+<h2 align="left">Used. Databases</h2>
 
 ###
 
