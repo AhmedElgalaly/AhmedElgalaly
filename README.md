@@ -38,12 +38,12 @@
   <img
     src="https://github-readme-stats-ruby-five-26.vercel.app/api?username=AhmedElgalaly&show_icons=true&theme=dracula&hide_border=true&bg_color=282a36&title_color=bd93f9&icon_color=ff79c6&text_color=f8f8f2"
     height="150"
+    alt="stats graph"
   />
-
-
   <img
     src="https://github-readme-stats-ruby-five-26.vercel.app/api/top-langs?username=AhmedElgalaly&layout=compact&theme=dracula&hide_border=true&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2"
     height="150"
+    alt="languages graph"
   />
 </div>
 
